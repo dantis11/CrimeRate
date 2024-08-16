@@ -100,8 +100,6 @@ sympy==1.12
 tenacity==8.5.0
 tensorboard==2.17.1
 tensorboard-data-server==0.7.2
-tensorflow==2.17.0
-tensorflow-intel==2.17.0
 termcolor==2.4.0
 threadpoolctl==3.3.0
 toml==0.10.2
@@ -111,7 +109,6 @@ traitlets==5.14.1
 typing_extensions==4.10.0
 tzdata==2024.1
 urllib3==2.2.1
-virtualenv==20.25.0
 watchdog==4.0.2
 wcwidth==0.2.13
 Werkzeug==3.0.3
