@@ -18,7 +18,7 @@ import datetime
 st.title("Crime Classification and Prediction")
 
 # Load the dataset (assuming it is in a CSV file)
-df = pd.read_csv(r"data2023.csv")
+df = pd.read_csv(r"source_files/data2023.csv")
 
 # Step 2: Initial Exploration
 # Get basic information about the dataset
